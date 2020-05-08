@@ -6,4 +6,4 @@ CreepyEye was an attempt to implement several data mining and machine learning t
 
 CreepyEye achieved an F1 of 0.955 on face detection and 0.161 on emotion detection.
 
-Code will be posted in the near future. In the meantime you can check out [this poster](https://github.com/Bcromas/creepyeye/blob/master/creepyeye_poster.pdf){:target="_blank"}
+Code will be posted in the near future. In the meantime you can check out <a href="https://github.com/Bcromas/creepyeye/blob/master/creepyeye_poster.pdf" target="_blank">this poster</a>
